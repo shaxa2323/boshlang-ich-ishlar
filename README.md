@@ -1,1 +1,1 @@
-# boshlang-ich-ishlar
+# boshlangich-ishlar
